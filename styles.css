@@ -362,7 +362,13 @@ footer{
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
 }
 
-.skill-card h4, .education-card h4 {
+.skill-card h4{
+  color: #4b4b4b;
+  margin-bottom: 15px;
+}
+
+.education-card h4 {
+  text-align: center;
   color: #4b4b4b;
   margin-bottom: 15px;
 }
