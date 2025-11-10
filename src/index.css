@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes wave {
+  0% {
+    transform: translateX(-100%);
+  }
+  50%,
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.body {
+  max-width: 100%;
+}
+
+.animate-wave {
+  animation: wave 1s ease-in-out infinite;
+}
+/* index.css or globals.css */
+/* In your global CSS file (e.g., styles.css) */
+
+html,
+body,
+#root,
+.App {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  min-height: 100vh; /* Ensure the container is at least 100vh tall */
+}
+html {
+  scroll-behavior: smooth;
+}
