@@ -5,63 +5,63 @@ import { useEffect } from "react";
 const technologyStack = [
   {
     name: "C",
-    image: "/tech-icons/c.png",
+    image: "./tech-icons/c.png",
   },
   {
     name: "C++",
-    image: "/tech-icons/c++.png",
+    image: "./tech-icons/c++.png",
   },
   {
     name: "Python",
-    image: "/tech-icons/python.png",
+    image: "./tech-icons/python.png",
   },
   {
     name: "HTML",
-    image: "/tech-icons/html.png",
+    image: "./tech-icons/html.png",
   },
   {
     name: "CSS",
-    image: "/tech-icons/css.png",
+    image: "./tech-icons/css.png",
   },
   {
     name: "SQL",
-    image: "/tech-icons/sql.png",
+    image: "./tech-icons/sql.png",
   },
   {
     name: "React js",
-    image: "/tech-icons/react.png",
+    image: "./tech-icons/react.png",
   },
   {
     name: "Next js",
-    image: "/tech-icons/next.png",
+    image: "./tech-icons/next.png",
   },
   {
     name: "Javascript",
-    image: "/tech-icons/javascript.png",
+    image: "./tech-icons/javascript.png",
   },
   {
     name: "Node js",
-    image: "/tech-icons/nodejs.png",
+    image: "./tech-icons/nodejs.png",
   },
   {
     name: "Mongo",
-    image: "/tech-icons/mongo-db.png",
+    image: "./tech-icons/mongo-db.png",
   },
   {
     name: "Git",
-    image: "/tech-icons/git.png",
+    image: "./tech-icons/git.png",
   },
   {
     name: "Java",
-    image: "/tech-icons/java.png",
+    image: "./tech-icons/java.png",
   },
   {
     name: "Docker",
-    image: "/tech-icons/docker.png",
+    image: "./tech-icons/docker.png",
   },
   {
     name: "Golang",
-    image: "/tech-icons/golang.png",
+    image: "./tech-icons/golang.png",
   },
 ];
 
