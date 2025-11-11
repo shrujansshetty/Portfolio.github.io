@@ -92,8 +92,8 @@ const ContactForm = () => {
 
   const socialmedia = [
     {
-      href: "https://www.instagram.com/Shrujan_k_S Shetty/?hl=en",
-      src: "/social-media/instagram.webp",
+      href: "https://www.instagram.com/shrujansshetty/",
+      src: "./social-media/instagram.webp",
       alt: "Instagram",
       name: "Instagram",
       target: "_blank",
@@ -101,24 +101,24 @@ const ContactForm = () => {
     },
 
     {
-      href: "https://mail.google.com/mail/?view=cm&fs=1&to=ShrujankS Shetty30@gmail.com",
-      src: "/social-media/gmail.webp",
+      href: "https://mail.google.com/mail/?view=cm&fs=1&to=shrujans91@gmail.com",
+      src: "./social-media/gmail.webp",
       alt: "Gmail",
       name: "Gmail",
       target: "_blank",
       rel: "noopener noreferrer",
     },
     {
-      href: "https://www.linkedin.com/in/Shrujan-S Shetty-3a7926248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      src: "/social-media/linkedin.webp",
+      href: "https://www.linkedin.com/in/shrujan-s-shetty-271790279/",
+      src: "./social-media/linkedin.webp",
       alt: "Linkedin",
       name: "Linkedin",
       target: "_blank",
       rel: "noopener noreferrer",
     },
     {
-      href: "https://www.github.com/ShrujankS Shetty/",
-      src: "/social-media/github.webp",
+      href: "https://github.com/shrujansshetty",
+      src: "./social-media/github.webp",
       alt: "github",
       name: "github",
       target: "_blank",
@@ -170,7 +170,7 @@ const ContactForm = () => {
             <motion.div className="w-full lg:w-1/2 mb-12 lg:mb-0 ">
               <motion.img
                 className="max-w-[13rem] mx-auto sm:max-w-sm "
-                src="/profile-2.png"
+                src="./profile-2.png"
                 alt="Shrujan's Avatar"
                 variants={itemVariants}
                 initial="hidden"
