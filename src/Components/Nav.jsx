@@ -80,7 +80,7 @@ const Nav = () => {
 
             {/* 📄 Resume Button */}
             <a
-              href="https://316aiet5vaiyby9a.public.blob.vercel-storage.com/resume.pdf"
+              href="https://drive.google.com/file/d/1ZsEifLJ-j-EDbHqL43mOMoZU45lrIh3y/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
