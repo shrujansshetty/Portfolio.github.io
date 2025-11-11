@@ -1,7 +1,4 @@
-# My Project
-
-This is my awesome Portfolio.
 
 ## Portfolio
 
-Check out my [Portfolio](https://Shrujan S ShettykS Shetty.vercel.app/) to see my work.
+Check out my [Portfolio](https://shrujansshetty.github.io/Portfolio.github.io/) to see my work.
