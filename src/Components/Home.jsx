@@ -96,7 +96,7 @@ const Home = () => {
               <div className="flex xl:justify-end justify-center">
                 <motion.div className="relative w-[390px] h-[360px] sm:w-[460px] sm:h-[410px] md:w-[490px] md:h-[450px] lg:w-[580px] lg:h-[540px] xl:h-[480px] xl:w-[500px] 2xl:h-[540px] 2xl:w-[600px] overflow-visible bg-gray-200 rounded-3xl xl:mt-10 2xl:mr-28 xl:mr-10">
                   <motion.img
-                    src="/profile.png"
+                    src="profile.png"
                     alt="Shrujan's Avatar"
                     initial={{ opacity: 0.5, y: 500 }}
                     animate={inView ? { opacity: 1, y: 0 } : {}}
