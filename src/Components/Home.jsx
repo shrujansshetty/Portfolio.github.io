@@ -8,7 +8,7 @@ const Home = () => {
     {
       className:
         "w-[110px] h-auto md:w-[150px] xl:w-[170px] absolute top-1/4 left-1  md:-left-3.5 lg:top-24 lg:-left-14 z-[1]",
-      src: "/quadrilateral.webp",
+      src: "./quadrilateral.webp",
       alt: "",
 
       initial: { opacity: 0, x: -100 },
@@ -18,7 +18,7 @@ const Home = () => {
     {
       className:
         "w-[135px] h-auto md:w-[150px] xl:w-[190px] lg:w-[170px] absolute top-1 right-1  lg:top-[1rem] lg:-right-3 z-[1]",
-      src: "/triangle.webp",
+      src: "./triangle.webp",
       alt: "",
       initial: { opacity: 0, x: 100 },
       animate: { opacity: 1, x: 0 },
@@ -27,7 +27,7 @@ const Home = () => {
     {
       className:
         "w-[120px] h-auto md:w-[150px] lg:w-[150px] xl:w-[170px] absolute bottom-1 -left-8 md:-left-12 lg:bottom-[2rem] lg:-left-[3rem] z-[1]",
-      src: "/twisted-torus.webp",
+      src: "./twisted-torus.webp",
       alt: "",
       initial: { opacity: 0, x: -100 },
       animate: { opacity: 1, x: 0 },
@@ -36,7 +36,7 @@ const Home = () => {
     {
       className:
         "w-[126px] h-auto md:w-[150px] lg:w-[192px] absolute bottom-1/4 right-1 lg:bottom-[1rem] lg:-right-4 z-[1] xl:-right-12 xl:bottom-[4rem]",
-      src: "/zig-zag.webp",
+      src: "./zig-zag.webp",
       alt: "",
       initial: { opacity: 0, x: 100 },
       animate: { opacity: 1, x: 0 },
@@ -96,7 +96,7 @@ const Home = () => {
               <div className="flex xl:justify-end justify-center">
                 <motion.div className="relative w-[390px] h-[360px] sm:w-[460px] sm:h-[410px] md:w-[490px] md:h-[450px] lg:w-[580px] lg:h-[540px] xl:h-[480px] xl:w-[500px] 2xl:h-[540px] 2xl:w-[600px] overflow-visible bg-gray-200 rounded-3xl xl:mt-10 2xl:mr-28 xl:mr-10">
                   <motion.img
-                    src="profile.png"
+                    src="./profile.png"
                     alt="Shrujan's Avatar"
                     initial={{ opacity: 0.5, y: 500 }}
                     animate={inView ? { opacity: 1, y: 0 } : {}}
