@@ -31,6 +31,27 @@ const arrproject = [
       "A weather app website that can show the current weather reports of any location.",
     link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
   },
+   {
+    projectname: "Weather App",
+    image: "./projects/weatherapp.png",
+    discription:
+      "A weather app website that can show the current weather reports of any location.",
+    link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
+  },
+   {
+    projectname: "Weather App",
+    image: "./projects/weatherapp.png",
+    discription:
+      "A weather app website that can show the current weather reports of any location.",
+    link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
+  },
+   {
+    projectname: "Weather App",
+    image: "./projects/weatherapp.png",
+    discription:
+      "A weather app website that can show the current weather reports of any location.",
+    link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
+  }
 ];
 
 const Project = () => {
