@@ -12,7 +12,7 @@ import { ArrowRight } from "lucide-react";
 const arrproject = [
   {
     projectname: "MetLife",
-    image: "./projects/metlife.png",
+    image: "./projects/metlife.jpg",
     discription:
       "A doctor appointment booking and managing platform, built using spring boot.",
     link: "https://github.com/shrujansshetty/MetLife-SpringBoot",
