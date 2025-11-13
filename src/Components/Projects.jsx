@@ -11,46 +11,46 @@ import { ArrowRight } from "lucide-react";
 
 const arrproject = [
   {
-    projectname: "Team Earth",
-    image: "./projects/teamearth.png",
+    projectname: "MetLife",
+    image: "./projects/metlife.png",
     discription:
-      "A sample crowdfunding platform dedicated to funding projects aimed at protecting nature.",
-    link: "https://shrujansshetty.github.io/Team_Earth.github.io/",
+      "A doctor appointment booking and managing platform, built using spring boot.",
+    link: "https://github.com/shrujansshetty/MetLife-SpringBoot",
   },
   {
     projectname: "Github Readme Generator",
     image: "./projects/githubreadme.png",
     discription:
       "Generate Readmes for your GitHub profile to showcase your skills, badges and more.",
-    link: "https://shrujansshetty.github.io/Github_Readme_Generator.github.io/",
+    link: "https://github.com/shrujansshetty/Github_Readme_Generator.github.io",
   },
   {
-    projectname: "Weather App",
-    image: "./projects/weatherapp.png",
+    projectname: "CI/CD Automation Pipeline",
+    image: "./projects/cicd.png",
     discription:
-      "A weather app website that can show the current weather reports of any location.",
-    link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
+      "A simulation of CI/CD Automation pipeline, with the help of Github Actions",
+    link: "https://github.com/shrujansshetty/CI-CD-Automation-Pipeline-Simulation",
   },
    {
-    projectname: "Weather App",
-    image: "./projects/weatherapp.png",
+    projectname: "Compiler Design",
+    image: "./projects/compiler.png",
     discription:
-      "A weather app website that can show the current weather reports of any location.",
-    link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
+      "Built a compiler using python to parse strings of a given hypothetical language.",
+    link: "https://github.com/shrujansshetty/Compiler_design",
   },
    {
-    projectname: "Weather App",
-    image: "./projects/weatherapp.png",
+    projectname: "Network Traffic Classifier",
+    image: "./projects/ntc.png",
     discription:
-      "A weather app website that can show the current weather reports of any location.",
-    link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
+      "Classifies network traffic using trained machine learning model",
+    link: "https://github.com/shrujansshetty/AI-Powered-Network-Traffic-Classifier",
   },
    {
-    projectname: "Weather App",
-    image: "./projects/weatherapp.png",
+    projectname: "Network Packet Sniffer",
+    image: "./projects/nps.png",
     discription:
-      "A weather app website that can show the current weather reports of any location.",
-    link: "https://shrujansshetty.github.io/WeatherApp.github.io/",
+      "A lightweight packet capture tool to inspect Ethernet / IPv4 / TCP / UDP headers and analyze real-time packet flow.",
+    link: "https://github.com/shrujansshetty/Network-Packet-Sniffer-Python",
   }
 ];
 
